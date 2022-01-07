@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://cuibapvh.gun.vn/sitemap.xml
